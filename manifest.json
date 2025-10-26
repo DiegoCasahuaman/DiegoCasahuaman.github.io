@@ -1,0 +1,19 @@
+{
+  "name": "Control de Gastos",
+  "short_name": "Gastos",
+  "description": "Una aplicación web para llevar un registro de tus gastos personales, visualizar estadísticas y gestionar categorías.",
+  "start_url": ".",
+  "scope": ".",
+  "id": "/?source=pwa",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111827",
+  "theme_color": "#1f2937",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
